@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   doubles: {
     step: 4,
     points: [
