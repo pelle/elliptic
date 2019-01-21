@@ -1,7 +1,7 @@
 {
-  "name": "elliptic",
-  "version": "6.4.1",
-  "description": "EC cryptography",
+  "name": "elliptic-lite",
+  "version": "1.0.0-alpha-experimental-1",
+  "description": "Lightweight fork of elliptic only supporting secp256k1",
   "main": "lib/elliptic.js",
   "module": "lib/elliptic.esm.js",
   "source": "src/elliptic.js",
@@ -53,7 +53,6 @@
     "brorand": "^1.0.1",
     "hash.js": "^1.0.0",
     "hmac-drbg": "^1.0.0",
-    "inherits": "^2.0.1",
     "minimalistic-assert": "^1.0.0",
     "minimalistic-crypto-utils": "^1.0.0"
   },
